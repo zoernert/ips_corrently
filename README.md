@@ -9,7 +9,7 @@ Bei der Anbindung des[GrünstromIndex](https://www.corrently.de/hintergrund/grue
 
 ## Installation
 
-Das Script [TarifInfo.ips](./TarifIno.ips) in die Symcon Management Console hochladen und einmal ausführen.
+Das Script [TarifInfo.ips](./TarifInfo.ips) in die Symcon Management Console hochladen und einmal ausführen.
 
 Es werden automatisch die Variablen angelegt, welche später zu Anzeige oder in Scripten verwendet werden können.
 
