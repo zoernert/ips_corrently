@@ -5,7 +5,7 @@ Die Verbindung der Heimautomatisierung von [Symcon](https://www.symcon.de/) im R
 
 ## Nutzen des Grünstromindex mit IP-Symcon
 
-Bei der Anbindung des[GrünstromIndex](https://www.corrently.de/hintergrund/gruenstromindex/) mit IP-Symcon wird für maximal 36 Stunden der Anteil des Stroms aus Wind, Wasser und Solarenergie am lokalen Strommix nutzbar gemacht. Schaltaktoren können zum Beispiel dann eingeschaltet werden, wenn besonders viel Grünstrom vorhanden ist. Das SmartHome kann somit auf das tatsächliche Dargebot reagieren.
+Bei der Anbindung des [GrünstromIndex](https://www.corrently.de/hintergrund/gruenstromindex/) mit IP-Symcon wird für maximal 36 Stunden der Anteil des Stroms aus Wind, Wasser und Solarenergie am lokalen Strommix nutzbar gemacht. Schaltaktoren können zum Beispiel dann eingeschaltet werden, wenn besonders viel Grünstrom vorhanden ist. Das SmartHome kann somit auf das tatsächliche Dargebot reagieren.
 
 ## Installation
 
